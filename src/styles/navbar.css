@@ -1,0 +1,27 @@
+.navbar {
+  background-color: #333;
+  color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.nav-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mine-counter {
+  font-size: 1.2rem;
+}
+
+.counter {
+  background-color: #ff4444;
+  padding: 0.2rem 0.6rem;
+  border-radius: 50%;
+  margin-left: 0.5rem;
+}
